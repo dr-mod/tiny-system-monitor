@@ -2,6 +2,7 @@
 An external system monitor for your computer.
 
 ![](docs/screenshot.jpg)
+[Demo video](https://twitter.com/dr2mod/status/1557773285022203904)
 
 ## Hardware
 
