@@ -1,7 +1,7 @@
 # Tiny system monitor
 An external system monitor for your computer.
 
-![](docs/screenshot.jpeg)
+![](docs/screenshot.jpg)
 
 ## Hardware
 
