@@ -30,8 +30,9 @@ The software is written in CircuitPython and tested with the version 7.3.1
 4. Drag and drop the CircuitPython UF2 file onto the RPI-RP2 volume.
 
 ### Software installation
+1. Clone the git repository
+2. Copy the git repository to the Raspberry Pi Pico
 
-Download and copy the software
 
 ```shell
 cd ~
